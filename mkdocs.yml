@@ -1,0 +1,20 @@
+site_name: Transform GTFS data to multivariate time series
+
+nav:
+  - Home: index.md
+  - GTFS: gtfs.md
+  - Series: series.md
+
+theme:
+  name: material
+  language: en
+  palette:
+    primary: green
+    accent: light green
+  features:
+    - navigation.expand
+    - navigation.tabs
+    - toc.integrate
+
+repo_url: https://github.com/fabianabarca/gtfs2series
+repo_name: fabianabarca/gtfs2series
